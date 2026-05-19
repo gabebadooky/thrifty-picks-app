@@ -15,21 +15,7 @@
             "bettingOdds": BettingOddsDto[],
             "stats": StatDto[]
         },
-        "location": {
-            "stadium": string,
-            "city": string,
-            "state": string,
-            "latitude": float,
-            "longitude": float
-        },
-        "forecast": {
-            "temperature": float,
-            "feelsLike": float,
-            "humidity": float,
-            "visibility": float,
-            "windSpeed": float,
-            "shortDescription": string,
-            "longDescription": string
-        }
+        "location": LocationDto,
+        "forecast": ForecastDto
     }
 ]
