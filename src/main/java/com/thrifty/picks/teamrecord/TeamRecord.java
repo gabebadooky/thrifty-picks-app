@@ -39,11 +39,11 @@ public class TeamRecord {
 	@Column(name = "record_type", length = 10, nullable = false)
 	private String recordType;
 
-	private Short wins;
+	private short wins;
 
-	private Short losses;
+	private short losses;
 
-	private Short ties;
+	private short ties;
 
 	@UpdateTimestamp
 	@Column(name = "updated_at", nullable = false)

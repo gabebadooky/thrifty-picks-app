@@ -48,7 +48,7 @@ public class BettingOdds {
 	@Column(name = "over_under")
 	private Float overUnder;
 
-	private Short moneyline;
+	private short moneyline;
 
 	private Float spread;
 

@@ -41,17 +41,17 @@ public class BoxScore {
 	@JoinColumn(name = "team", nullable = false)
 	private Team team;
 
-	private Short quarter1;
+	private short quarter1;
 
-	private Short quarter2;
+	private short quarter2;
 
-	private Short quarter3;
+	private short quarter3;
 
-	private Short quarter4;
+	private short quarter4;
 
-	private Short overtime;
+	private short overtime;
 
-	private Short total;
+	private short total;
 
 	@UpdateTimestamp
 	@Column(name = "updated_at", nullable = false)
