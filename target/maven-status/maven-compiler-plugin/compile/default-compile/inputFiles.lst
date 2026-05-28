@@ -16,6 +16,7 @@
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/conference/ConferenceMapper.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/conference/ConferenceRepository.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/conference/package-info.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/debug/DebugDialectEnvironmentPostProcessor.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/forecast/Forecast.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/forecast/ForecastDto.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/forecast/ForecastId.java
@@ -35,6 +36,13 @@
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/maintenance/Maintenance.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/maintenance/MaintenanceRepository.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/maintenance/package-info.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/MatchupController.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/MatchupDto.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/MatchupMapper.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/MatchupService.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/MatchupServiceImpl.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/TeamMatchupDto.java
+/Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/matchup/package-info.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/note/TeamNote.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/note/TeamNoteId.java
 /Users/gbaduqui/projects/thrifty-picks/thrifty-picks-app/src/main/java/com/thrifty/picks/note/TeamNoteRepository.java
